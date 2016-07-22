@@ -1,29 +1,25 @@
 person:
-  name: Nathan Glover
-  profession: Technology Enthusiast
+  name: Yhana Lucas
+  profession: Research & Development
   location: Perth, Western Australia
   citizenship: Australia
-  birthday: 31.12.1990
-  email: nathan@glovers.id.au
-  site: nathanglover.com
-  phone: +61 430 319 001
-  github: /t04glovern
-  stackoverflow: /nathan-glover
+  birthday: 27.03.1991
+  email: yhana.lucas@gmail.com
+  site: yhanalucas.com.au
+  phone: +61 000 000 000
+  github: /yazzledazzle
 
 career:
- - position: Network and System Administrator
-   company: Galati Group
+ - position: Research and Development and Government Incentives Professional
+   company: Deloitte Australia
    location: Perth, Western Australia
-   dates: December 2014 – Current
-   summary: Contracted through the Australian Computer Society scholarship program; I work as part of a motivated IT Team, servicing and managing 15+ sites across WA. Regular tasks include maintaining backup systems, improving DR solutions, researching and investigating new technologies and managing a variety of server platforms and POS systems.
+   dates: September 2015 – Current
+   summary: I liaise with external clients to identify and claim eligible research and development projects for the Australian Government R&D Tax Incentive. I work across a variety of industries, using my science and engineering background to engage with Australian leaders in innovation, create technical project descriptions, and identify costs.
    accomplishments:
-    - accomplishment: Administration and Installation of 300+ Windows Desktop/Server based systems.
-    - accomplishment: Thorough documentation of new and current hardware and software processes.
-    - accomplishment: Experienced at dealing with users on a daily basis for any IT needs.
-    - accomplishment: POS and EFTPOS installation and management.
-    - accomplishment: ESXi / vCenter implementation and servicing.
-    - accomplishment: Managing and Administering project documentation.
-    - accomplishment: Task automation.
+    - accomplishment: accomplishment-1
+    - accomplishment: accomplishment-2
+    - accomplishment: accomplishment-3
+    - accomplishment: accomplishment-4
  - position: Support Technician
    company: Command IT
    location: Perth, Western Australia
